@@ -10,7 +10,7 @@
 &nbsp;
 
  <a href="#">
-    <img width="365" align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f4b50571097767.5bb9fee9d515c.gif" /> 
+    <img width="340" align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f4b50571097767.5bb9fee9d515c.gif" /> 
  </a>
 
 <pre align="justify">
