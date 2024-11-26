@@ -15,17 +15,16 @@
 
 <pre align="justify">
 
-  Atualmente trabalho na <a href="https://www.prodeb.ba.gov.br/" target="_blank">Prodeb💙</a>
-  como Consultor IV.
+  Atualmente trabalho na <a href="https://www.prodeb.ba.gov.br/" target="_blank">Prodeb💙</a> como Consultor IV.
 
   Apaixonado por programação desde os 17 anos,
   foi o período quando iniciei um curso de algoritmos 
   e desde então nunca mais parei de estudar assuntos relacionados.
   Depois de terminar o ensino médio, logo fiz o enem, no qual fui
-  aprovado em instituições públicas e privada para estudar de forma
-  gratuita.
+  aprovado em instituições públicas e privada para fazer faculdade
+  de forma gratuita.
 
-  Concluir o curso de Sistema de Informação em 2023.
+  Concluir o curso de Sistema de informação em 2023.
 
   Sempre me aventurei a criar/aprender coisas,
   descobrir e mudar é o que me move.
